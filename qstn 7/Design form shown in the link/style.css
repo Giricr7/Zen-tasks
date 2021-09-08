@@ -1,0 +1,8 @@
+.flex {
+    display: flex;
+}
+ 
+#lineinput{
+    border: none;
+    border-bottom: 2px solid;
+}
