@@ -1,0 +1,27 @@
+#table{
+ 
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: black;
+    text-align: center;
+    table-layout: auto;
+    width: 100%;
+    
+}
+ 
+#rows{
+    border-color: black;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+    padding: 5%;
+  
+    
+}
+.center{
+ 
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
